@@ -5,7 +5,7 @@ Best if used with a terminal based browser like w3m
 ### Requirements
 
 ```sh
-sudo apt install w3m
+export BROWSER=/path/to/browser
 ```
 
 ### Usage
